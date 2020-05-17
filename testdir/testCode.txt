@@ -1,1 +1,2 @@
 testcode
+この行は、delelopだけに反映したい。
